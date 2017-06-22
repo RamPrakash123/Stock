@@ -1,0 +1,12 @@
+E:\Project\Stock\Stock\bin\Debug\Stock.exe.config
+E:\Project\Stock\Stock\bin\Debug\Stock.exe
+E:\Project\Stock\Stock\bin\Debug\Stock.pdb
+E:\Project\Stock\Stock\obj\Debug\Stock-1.csprojResolveAssemblyReference.cache
+E:\Project\Stock\Stock\obj\Debug\Stock.Login.resources
+E:\Project\Stock\Stock\obj\Debug\Stock.Products.resources
+E:\Project\Stock\Stock\obj\Debug\Stock.StockMain.resources
+E:\Project\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+E:\Project\Stock\Stock\obj\Debug\Stock-1.csproj.GenerateResource.Cache
+E:\Project\Stock\Stock\obj\Debug\Stock.exe
+E:\Project\Stock\Stock\obj\Debug\Stock.pdb
+E:\Project\Stock\Stock\obj\Debug\Stock.Stock.resources
